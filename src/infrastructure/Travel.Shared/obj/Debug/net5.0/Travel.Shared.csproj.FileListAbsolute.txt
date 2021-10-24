@@ -1,0 +1,16 @@
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.deps.json
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.dll
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\ref\Travel.Shared.dll
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Shared.pdb
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Application.dll
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Domain.dll
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Application.pdb
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\bin\Debug\net5.0\Travel.Domain.pdb
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.AssemblyReference.cache
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.AssemblyInfoInputs.cache
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.AssemblyInfo.cs
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.dll
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\ref\Travel.Shared.dll
+D:\Projects\travel-destination-places\src\infrastructure\Travel.Shared\obj\Debug\net5.0\Travel.Shared.pdb

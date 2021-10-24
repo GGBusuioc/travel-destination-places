@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Travel\\src\\core\\Travel.Application\\Travel.Application.csproj": {}
+    "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Application\\Travel.Application.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Travel\\src\\core\\Travel.Application\\Travel.Application.csproj": {
+    "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Application\\Travel.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Travel\\src\\core\\Travel.Application\\Travel.Application.csproj",
+        "projectUniqueName": "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Application\\Travel.Application.csproj",
         "projectName": "Travel.Application",
-        "projectPath": "D:\\Projects\\Travel\\src\\core\\Travel.Application\\Travel.Application.csproj",
+        "projectPath": "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Application\\Travel.Application.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Travel\\src\\core\\Travel.Application\\obj\\",
+        "outputPath": "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "D:\\Projects\\Travel\\src\\core\\Travel.Domain\\Travel.Domain.csproj": {
-                "projectPath": "D:\\Projects\\Travel\\src\\core\\Travel.Domain\\Travel.Domain.csproj"
+              "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Domain\\Travel.Domain.csproj": {
+                "projectPath": "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Domain\\Travel.Domain.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\Projects\\Travel\\src\\core\\Travel.Domain\\Travel.Domain.csproj": {
+    "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Domain\\Travel.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Travel\\src\\core\\Travel.Domain\\Travel.Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Domain\\Travel.Domain.csproj",
         "projectName": "Travel.Domain",
-        "projectPath": "D:\\Projects\\Travel\\src\\core\\Travel.Domain\\Travel.Domain.csproj",
+        "projectPath": "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Domain\\Travel.Domain.csproj",
         "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Travel\\src\\core\\Travel.Domain\\obj\\",
+        "outputPath": "D:\\Projects\\travel-destination-places\\src\\core\\Travel.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,6 +97,12 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
