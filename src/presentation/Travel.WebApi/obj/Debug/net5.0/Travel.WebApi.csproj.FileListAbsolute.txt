@@ -62,3 +62,13 @@ D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\n
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\ref\Travel.WebApi.dll
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.pdb
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.genruntimeconfig.cache
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\FluentValidation.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\MediatR.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\CsvHelper.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\MailKit.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\MimeKit.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
