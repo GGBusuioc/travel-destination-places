@@ -58,7 +58,6 @@ D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\n
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\staticwebassets\Travel.WebApi.StaticWebAssets.xml
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\scopedcss\bundle\Travel.WebApi.styles.css
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.RazorTargetAssemblyInfo.cache
-D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.csproj.CopyComplete
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.dll
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\ref\Travel.WebApi.dll
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.pdb
