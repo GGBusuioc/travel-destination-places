@@ -72,3 +72,5 @@ D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\n
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\MailKit.dll
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\MimeKit.dll
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
