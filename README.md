@@ -9,3 +9,5 @@ Throughout this project I've learned how to:
 - To apply CQRS, MediatR, and Pipeline Behavior. The MediatR package makes the CQRS pattern easy to do in ASP.NET Core. The Pipeline Behavior package allows you to run a number of methods, such as validations or loggings, in a command before and after a handler processes it
 - Use the the FluentValidation package, a powerful library for validating your models
 - Use the AutoMapper package, a library that allows you to map an object to another object by writing a few lines of code
+- Implement the URI path versioning strategy and integrate with SwaggerUI
+- Override ILogger with a structured logging framework named Serilog and save it in a database in order to easily query/investigate when debugging the application
