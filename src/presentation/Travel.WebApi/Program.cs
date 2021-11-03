@@ -1,11 +1,11 @@
-using System;
-using System.Reflection;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Serilog;
 using Serilog.Events;
 using Serilog.Exceptions;
 using Serilog.Formatting.Compact;
+using System;
+using System.Reflection;
 
 namespace Travel.WebApi
 {
@@ -13,7 +13,6 @@ namespace Travel.WebApi
     {
         public static int Main(string[] args)
         {
-
             var name = Assembly.GetExecutingAssembly().GetName();
             Log.Logger = new LoggerConfiguration()
                 .MinimumLevel.Debug()
@@ -23,12 +22,12 @@ namespace Travel.WebApi
                 .Enrich.WithProperty("Assembly", $"{name.Name}")
                 .Enrich.WithProperty("Assembly", $"{name.Version}")
                 .WriteTo.SQLite(
-                        Environment.CurrentDirectory + @"\Logs\log.db",
+                        Environment.CurrentDirectory + @"/Logs/log.db",
                         restrictedToMinimumLevel: LogEventLevel.Information,
                         storeTimestampInUtc: true)
                 .WriteTo.File(
                         new CompactJsonFormatter(),
-                        Environment.CurrentDirectory + @"\Logs\log.json",
+                        Environment.CurrentDirectory + @"/Logs/log.json",
                         rollingInterval: RollingInterval.Day,
                         restrictedToMinimumLevel: LogEventLevel.Information)
                 .WriteTo.Console()

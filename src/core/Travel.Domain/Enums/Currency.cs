@@ -1,4 +1,4 @@
-namespace Travel.Domain.Enums
+﻿namespace Travel.Domain.Enums
 {
   public enum Currency
   {

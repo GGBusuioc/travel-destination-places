@@ -13,3 +13,4 @@ Throughout this project I've learned how to:
 - Override ILogger with a structured logging framework named Serilog and save it in a database in order to easily query/investigate when debugging the application
 - Integrate IdentityServer4 that integrates OAuth 2 and OpenID Connect
 - Secure the app using the JWT. The application responds with a token, which has a payload of user information, to an authenticated request.
+- Use Distributed Caching and implement it in the app via Redis

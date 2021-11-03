@@ -6,14 +6,14 @@ using Travel.Data.Contexts;
 
 namespace Travel.Data.Migrations
 {
-    [DbContext(typeof(TravelDbContext))]
+    [DbContext(typeof(ApplicationDbContext))]
     partial class TravelDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "5.0.11");
+                .HasAnnotation("ProductVersion", "5.0.0-rc.2.20475.6");
 
             modelBuilder.Entity("Travel.Domain.Entities.TourList", b =>
                 {
