@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Travel.WebApi
-build_property.ProjectDir = D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\
+build_property.ProjectDir = d:\Projects\travel-destination-places\src\presentation\Travel.WebApi\

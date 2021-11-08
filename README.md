@@ -14,3 +14,6 @@ Throughout this project I've learned how to:
 - Integrate IdentityServer4 that integrates OAuth 2 and OpenID Connect
 - Secure the app using the JWT. The application responds with a token, which has a payload of user information, to an authenticated request.
 - Use Distributed Caching and implement it in the app via Redis
+
+- Use Vuetify as an UI component library for my app to develop faster
+- Lazy load pages to improve the loading speed of the app
