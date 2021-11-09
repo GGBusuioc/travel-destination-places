@@ -3,9 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 using Travel.Identity.Helpers;
 
+
 namespace Travel.WebApi.Controllers.v1
 {
-    [Authorize]
+    //[Authorize]
     [ApiVersion("1.0")]
     [ApiController]
     [Route("api/v{version:apiVersion}/[controller]")]
