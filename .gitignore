@@ -343,3 +343,4 @@ healthchecksdb
 .idea
 .vs
 .vscode
+/src/presentation/Travel.WebApi/Logs

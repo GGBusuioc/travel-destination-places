@@ -230,3 +230,6 @@ D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\n
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\ref\Travel.WebApi.dll
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.pdb
 D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\obj\Debug\net5.0\Travel.WebApi.genruntimeconfig.cache
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\Logs\log20211109.json
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Projects\travel-destination-places\src\presentation\Travel.WebApi\bin\Debug\net5.0\VueCliMiddleware.dll

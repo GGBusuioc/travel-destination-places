@@ -10,3 +10,15 @@ C:\Users\Gabriel\Downloads\ASP.NET-Core-and-Vue.js-master\ASP.NET-Core-and-Vue.j
 C:\Users\Gabriel\Downloads\ASP.NET-Core-and-Vue.js-master\ASP.NET-Core-and-Vue.js-master\Chapter10\Travel\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Domain.pdb
 C:\Users\Gabriel\Downloads\ASP.NET-Core-and-Vue.js-master\ASP.NET-Core-and-Vue.js-master\Chapter10\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.dll
 C:\Users\Gabriel\Downloads\ASP.NET-Core-and-Vue.js-master\ASP.NET-Core-and-Vue.js-master\Chapter10\Travel\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.pdb
+D:\Projects\travel-destination-places\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.AssemblyReference.cache
+D:\Projects\travel-destination-places\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\travel-destination-places\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.AssemblyInfoInputs.cache
+D:\Projects\travel-destination-places\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.AssemblyInfo.cs
+D:\Projects\travel-destination-places\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.csproj.CoreCompileInputs.cache
+D:\Projects\travel-destination-places\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.dll
+D:\Projects\travel-destination-places\src\core\Travel.Application\obj\Debug\netstandard2.1\Travel.Application.pdb
+D:\Projects\travel-destination-places\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.deps.json
+D:\Projects\travel-destination-places\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.dll
+D:\Projects\travel-destination-places\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Application.pdb
+D:\Projects\travel-destination-places\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Domain.dll
+D:\Projects\travel-destination-places\src\core\Travel.Application\bin\Debug\netstandard2.1\Travel.Domain.pdb

@@ -17,3 +17,5 @@ Throughout this project I've learned how to:
 
 - Use Vuetify as an UI component library for my app to develop faster
 - Lazy load pages to improve the loading speed of the app
+- Integrate a Vue.js app with .NET Core
+- Enable Cross-Origin Resource Sharing(CORS) policy in ASP.NET Core to allow incoming requests from other domain or origins
